@@ -1,0 +1,57 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data files (if you want to exclude large data files)
+*.csv
+*.xlsx
+*.xls
+# Uncomment if you want to track specific data files:
+# !important_data.csv
+
+# Model outputs and temporary files
+*.pkl
+*.h5
+*.joblib
+*.tmp
+
+# OS specific
+Thumbs.db
