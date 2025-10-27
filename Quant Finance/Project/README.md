@@ -63,8 +63,8 @@ git add *.ipynb
 # Add all Python files
 git add *.py
 
-# Add all files in a subdirectory
-git add "Mini Project 1/"*
+# Add all files in a subdirectory (quote paths with spaces)
+git add "Mini Project 1/"
 
 # Add all files recursively
 git add .

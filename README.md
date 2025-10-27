@@ -4,9 +4,9 @@ This repository contains materials for the 2025 Finance Quantitative Camp, inclu
 
 ## Repository Structure
 
-- **Quant Finance/Classnotes/** - Lecture notes and materials
-- **Quant Finance/HW/** - Homework assignments
-- **Quant Finance/Project/** - Course projects and mini-projects
+- **Quant Finance/Classnotes** - Lecture notes and materials
+- **Quant Finance/HW** - Homework assignments
+- **Quant Finance/Project** - Course projects and mini-projects
 
 ## Quick Links
 
